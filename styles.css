@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(207, 173, 148);
+    color:black;
+}
+a{
+    color: blue;
+}
+div{
+    background-color:cornsilk;
+    border-radius:3em;
+    padding-left:30px
+}
